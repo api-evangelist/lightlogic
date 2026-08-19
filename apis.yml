@@ -60,7 +60,7 @@ x-api-surface-detail: >-
   package, or specification surface was ever published; lightlogic.com does not
   resolve (no DNS A record) and no first-party packages exist on npm or PyPI.
 x-archived-website: https://web.archive.org/web/20010205102600/http://lightlogic.com/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
