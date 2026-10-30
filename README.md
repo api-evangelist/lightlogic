@@ -64,24 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LightLogic was an optoelectronics company founded in January 1998 and headquartered in Newark, California. It designed and manufactured highly integrated optical modules — transmitters and receivers — for high-speed (10 Gb/s and up) fiber optic telecommunications equipment, specializing in the integration of lasers, micro-optics and high-speed electronics.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Its marquee products were 10 Gb/s transponders providing optical-to-electrical conversion for SONET OC-192 and 10 Gigabit Ethernet applications, sold to optical networking OEMs building primarily metro-market systems.
+LightLogic was an optoelectronics company founded in January 1998 and headquartered in Newark, California. It designed and manufactured highly integrated optical modules — transmitters and receivers — for high-speed (10 Gb/s and up) fiber optic telecommunications equipment, specializing in the integration of lasers, micro-optics and high-speed electronics. Its marquee products were 10 Gb/s transponders providing optical-to-electrical conversion for SONET OC-192 and 10 Gigabit Ethernet applications, sold to optical networking OEMs building primarily metro-market systems. The company raised $57.5M and was backed by Bessemer Venture Partners, Cisco Systems, Infineon Technologies, Dassault Developpement, Infinity Capital, Lightspeed Venture Partners (then Weiss, Peck and Greer), Optical Capital Group, Ridge Ventures, Siemens Mustang Ventures and Viventures. LightLogic was acquired by Intel Corporation; by mid-2002 lightlogic.com redirected to Intel's optical transceiver product pages. This is a hardware component maker with no API, developer or software surface — historically or today — and the lightlogic.com domain no longer resolves.
 
-## Status
+**Areas:** Company · Optoelectronics · Photonics · Fiber Optics · Optical Networking · Telecommunications · Transceivers · Semiconductors · Hardware · Defunct
 
-**Defunct — acquired by Intel Corporation.** Lightspeed records the exit as "Acquired, Intel Corp." The company's own site was still independent in February 2001; by May 2002 `lightlogic.com` redirected to Intel's optical transceiver product pages at `developer.intel.com`. The domain no longer resolves.
+## LightLogic on APIs.io (historical record)
 
-## API surface
+Everything profiled for LightLogic is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lightlogic/](https://apis.io/providers/lightlogic/)** — or go straight to one of the APIs or properties below.
 
-**None.** LightLogic was a hardware component vendor and never published an API, SDK, developer portal, or specification. Probes confirm: `lightlogic.com` has no DNS A record, and no first-party packages exist on npm or PyPI. No artifacts are applicable to this repo.
+## API Evangelist rating
 
-## Investors
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-Bessemer Venture Partners, Cisco Systems, Infineon Technologies, Dassault Developpement, Infinity Capital, Lightspeed Venture Partners (then Weiss, Peck and Greer), Optical Capital Group, Ridge Ventures, Siemens Mustang Ventures, Viventures. Lender: Western Technology Investment. The company raised $57.5M.
+## How this profile is made
 
-## Sources
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-- https://lsvp.com/company/lightlogic/
-- https://web.archive.org/web/20010205102600/http://lightlogic.com/
-- https://web.archive.org/web/20001211171000/http://www.lightlogic.com/aboutus.html
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LightLogic: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lightlogic/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
